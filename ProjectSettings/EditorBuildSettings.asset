@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Escenas/Intro/Logo.unity
+    guid: ae65d4c08f9719443a9399d182d0de7c
+  - enabled: 1
+    path: Assets/Escenas/Intro/Intro.unity
+    guid: e6f30aaf2949f6141af1189923ea38ea
+  - enabled: 1
+    path: Assets/Escenas/Intro/Intro2.unity
+    guid: 359cdfec6d8a44c4f96e3c6eeed2736a
+  - enabled: 1
+    path: Assets/Escenas/Intro/Menu Principal.unity
+    guid: 13b2e58637f1e48439f12feeebcd15c7
+  - enabled: 1
+    path: Assets/Escenas/Aldea/Aldea Desolada.unity
+    guid: e7d91fa0594c58646b3259f3cd98b573
+  - enabled: 1
+    path: Assets/Escenas/Cala/Casa Anciano.unity
+    guid: 97bdf627237a581469ec6ca2d8525fbb
+  - enabled: 1
+    path: "Assets/Escenas/Cala/Cala Pac\xEDfica.unity"
+    guid: 7b0236c2ef103da42a7dd960c012e60f
+  - enabled: 1
+    path: Assets/Escenas/Bosque/Bosque Espeso Este.unity
+    guid: 8a446431352106b428251c971e98a354
+  - enabled: 1
+    path: Assets/Escenas/Bosque/Bosque Espeso Oeste.unity
+    guid: c9e1a7ceeb1208d45a9eebf4b0e05ded
+  - enabled: 1
+    path: Assets/Escenas/Bosque/Bosque Espeso Profundo.unity
+    guid: db57fe3ddc1464347b28941cad8f243f
+  - enabled: 1
+    path: Assets/Escenas/Ciudad/Ciudad Amurallada.unity
+    guid: 3e11461883682a845bd3ea6302741867
+  - enabled: 1
+    path: Assets/Escenas/Ciudad/Casa 1.unity
+    guid: e4c66b73beb7dae4085c2dc49670b175
+  - enabled: 1
+    path: Assets/Escenas/Ciudad/Casa 2.unity
+    guid: 5948ba0379233e240ad032f7a4762f95
+  - enabled: 1
+    path: Assets/Escenas/Ciudad/Casa 3.unity
+    guid: 2eacc78f565627f488e62f6cbbd10602
+  - enabled: 1
+    path: Assets/Escenas/Ciudad/Casa 4.unity
+    guid: 1f5f132817553e547ac98a83b0394bad
+  - enabled: 1
+    path: Assets/Escenas/Ciudad/Casa 5.unity
+    guid: 323c54a865a33334aa977246bec2677c
+  - enabled: 1
+    path: Assets/Escenas/Ciudad/Casa 6.unity
+    guid: 1537ead3bb9800b4aa812935bcef85b1
+  - enabled: 1
+    path: Assets/Escenas/Ciudad/Torre Codiciosa.unity
+    guid: efebe479de7fdef4cb810239f10dbf4c
+  - enabled: 1
+    path: Assets/Escenas/Cueva/Cueva Costera Sur.unity
+    guid: 8f0134a443828414c95bea46711fe86d
+  - enabled: 1
+    path: Assets/Escenas/Cueva/Cueva Costera Norte.unity
+    guid: f50dd598f0557a5478b969a46c5743a2
+  - enabled: 1
+    path: Assets/Escenas/Cueva/Cueva Costera Profunda.unity
+    guid: ca6cf43d862152045be97a9c5bdf0ce0
+  - enabled: 1
+    path: Assets/Escenas/Alcantarillas/Alcantarillas Mugrosas.unity
+    guid: b9e7c96417c1ba7498942fbdf3b32e46
+  - enabled: 1
+    path: Assets/Escenas/Alcantarillas/Puente Oscuro.unity
+    guid: 80275aa20ed75024a8c167e5b2c01efa
+  - enabled: 1
+    path: Assets/Escenas/Mazmorras/Mazmorras Oxidadas.unity
+    guid: 8804bc1846bf2d74c8ac1a404fd7fe21
+  - enabled: 1
+    path: Assets/Escenas/Mazmorras/Ala Este/M. Ala Este 1.unity
+    guid: 1ecb7306546fabf45ba2be429a9ed361
+  - enabled: 1
+    path: Assets/Escenas/Mazmorras/Ala Este/M. Ala Este 2.unity
+    guid: 5073fee87b87a5e428b7173885f37409
+  - enabled: 1
+    path: Assets/Escenas/Mazmorras/Ala Este/M. Ala Este 3.unity
+    guid: b3a0fff0504061841895d75c393b1243
+  - enabled: 1
+    path: Assets/Escenas/Mazmorras/Ala Este/M. Ala Este 4.unity
+    guid: f5ecd65b21c702544a6d96c80d33d62e
+  - enabled: 1
+    path: Assets/Escenas/Mazmorras/Ala Oeste/M. Ala Oeste 1.unity
+    guid: 8e9c07da38d4ffd47bf44b6ebfb9d16f
+  - enabled: 1
+    path: Assets/Escenas/Mazmorras/Ala Oeste/M. Ala Oeste 2.unity
+    guid: 5e9c7d8c6c6c30944b7529c03b512555
+  - enabled: 1
+    path: Assets/Escenas/Mazmorras/Ala Oeste/M. Ala Oeste 3.unity
+    guid: ef53602b9c27e2c46acb6cd3f1a0b8e3
+  - enabled: 1
+    path: Assets/Escenas/Mazmorras/Ala Oeste/M. Ala Oeste 4.unity
+    guid: 2665dded6babe1e4586ea917c7a582a1
+  - enabled: 1
+    path: Assets/Escenas/Mazmorras/Celda del Guardian.unity
+    guid: 0a2d38a0b3de18b499ec7cd0cba618b8
+  - enabled: 1
+    path: Assets/Escenas/Templo/Pasillo Primigenio.unity
+    guid: f82af108bd3d72d40837d952c09b339b
+  - enabled: 1
+    path: Assets/Escenas/Templo/Templo Infernal.unity
+    guid: ff45bd6bc2e7f7a40bde7e8ac9605e9b
+  - enabled: 1
+    path: Assets/Escenas/Combate/Combate.unity
+    guid: 502f214fbbafc694a971f3e76c3a4056
+  - enabled: 1
+    path: Assets/Escenas/Intro/Loading Nueva.unity
+    guid: fd66caba7e2b7e74787106dbc452b8d8
+  - enabled: 1
+    path: Assets/Escenas/Intro/Loading Cargar.unity
+    guid: 5aa1abcbf423c814d8abcefaab0f59cb
+  - enabled: 1
+    path: Assets/Escenas/Cala/Sala del Altar.unity
+    guid: 69c34e5474ed952489be05d39633eb8b
+  - enabled: 1
+    path: Assets/Escenas/Intro/Game Over.unity
+    guid: ce384068206c8c543a32a3ece4dd9214
+  m_configObjects: {}

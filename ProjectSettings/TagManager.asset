@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Claddwyd
+  - Dewin
+  - Ysbrid
+  - Moneda
+  - Pocion Mana
+  - Pocion Vida
+  - Tonico Mana
+  - Tonico Vida
+  - Libro
+  - Llave
+  - Anillo Vida
+  - Espada Alto
+  - Espada Bajo
+  - Espada Der
+  - Espada Izq
+  - Espada3
+  - Espada1
+  - Espada
+  - Espada2
+  - Antorcha
+  - Gema Azul
+  - Gema Roja
+  - Cristal de Fuego
+  - Cristal de Hielo
+  - Trap
+  - Iceball
+  - EspadaItem
+  - Puerta
+  - MensajePoderoso
+  - Center
+  - Panel
+  - Enemy
+  - AntorchaItem
+  - Enemy4
+  - Enemy1
+  - Enemy2
+  - Enemy3
+  - Enemy5
+  - DDD
+  - DCD
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
